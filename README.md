@@ -13,6 +13,10 @@ Recreate teh following methods using JavaScript functions.
 * [x] Reduce
 * [x] Includes
 * [x] indexOf
+* [x] push
+* [x] lastIndexOf()
+* [x] Object.keys()
+* [x] Object.values()
 
 
 

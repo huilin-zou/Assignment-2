@@ -4,7 +4,7 @@
 To improve your understanding of JavaScript syntax, functions, and higher-order functions, and to better understand JavaScript and Array methods.
 
 ## Tasks
-Recreate teh following methods using JavaScript functions.
+Recreate the following methods using JavaScript functions.
 * [x] forEach
 * [x] Map
 * [x] Filter
